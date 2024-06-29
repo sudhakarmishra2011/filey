@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+virtualenv/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
